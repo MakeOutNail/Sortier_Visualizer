@@ -1,0 +1,3 @@
+C:/Users/Nail/Desktop/Sortier-Visualizer/cmake-build-debug/CMakeFiles/Sortier_Visualizer.dir
+C:/Users/Nail/Desktop/Sortier-Visualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nail/Desktop/Sortier-Visualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
